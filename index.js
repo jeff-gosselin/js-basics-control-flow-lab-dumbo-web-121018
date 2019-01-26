@@ -6,5 +6,3 @@ function scuberGreetingForFeet(distance) {
     return 'I will gladly take your thirty bucks.'
   }
 }
-
-
